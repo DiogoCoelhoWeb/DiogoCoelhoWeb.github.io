@@ -24,9 +24,9 @@ I'm comfortable working with several languages and tools, including:
   - CSS
   - PHP
 - **Tools:**
-  - [Github]: Software versioning software
-  - [Docker]: Containerization software
-  - [Linux]: Operating System.
+  - **Github**: Software versioning software
+  - **Docker**: Containerization software
+  - **Linux**: Operating System.
 
 ## Interests & Hobbies
 
