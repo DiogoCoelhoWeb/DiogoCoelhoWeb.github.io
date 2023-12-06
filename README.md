@@ -18,8 +18,15 @@ I'm always eager to dive into exciting projects and challenges. Some of the proj
 ## Technologies & Tools
 
 I'm comfortable working with several languages and tools, including:
-- **Languages:** C, HTML, CSS and PHP
-- **Tools:** [Github]: Software versionong software [Docker]: Containerization software [Linux]: Operating System.
+- **Languages:**
+  - C
+  - HTML
+  - CSS
+  - PHP
+- **Tools:**
+  - [Github]: Software versioning software
+  - [Docker]: Containerization software
+  - [Linux]: Operating System.
 
 ## Interests & Hobbies
 
