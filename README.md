@@ -1,27 +1,36 @@
-# Hi there, I'm Diogo Coelho! 👋
+# Hello, I'm Diogo Coelho! 👋
 
-I'm a software engineering student passionate about coding and exploring the depths of technology. Currently pursuing my degree in software engineering, I'm eager to learn and delve deeper into the world of programming.
+I'm a passionate software engineering student dedicated to learning and exploring the world of technology. Currently pursuing my degree, I'm driven by a relentless curiosity to understand the intricacies of programming and software development.
 
 ## About Me
 
-- 🔭 I'm currently working on completing my software engineering degree.
-- 🌱 I'm proficient in C, HTML, CSS and PHP.
-- 💻 Always enthusiastic about exploring new technologies and learning more.
-- 🌌 Apart from coding, I enjoy stargazing with my telescope and spending time with my friends and youth group.
+- 🔭 **Currently:** On track to complete my software engineering degree.
+- 🌱 **Proficiencies:** C, HTML, CSS and PHP.
+- 💻 **Passion:** Exploring new technologies and broadening my skill set.
+- 🌌 **Beyond Coding:** Apart from my love for programming, I cherish stargazing with my telescope and spending quality time with friends and youth group.
+
+## Projects & Endeavors
+
+I'm always eager to dive into exciting projects and challenges. Some of the projects I've been involved in or currently working on include:
+- [Trabalho_LP](https://github.com/DiogoCoelhoWeb/Trabalho_LP): Final C project for university.
+- [Trabalho-Java-Ano-Zero](https://github.com/DiogoCoelhoWeb/Trabalho-Java-Ano-Zero): Final Java project for a course. 
 
 ## Technologies & Tools
 
-- Programming Languages: C, HTML, CSS, PHP
-- Always eager to learn and expand my skill set in various technologies
+I'm comfortable working with several languages and tools, including:
+- **Languages:** C, HTML, CSS and PHP
+- **Tools:** [Github]: Software versionong software [Docker]: Containerization software [Linux]: Operating System.
 
-## Interests
+## Interests & Hobbies
 
-Besides programming, I love to look up at the night sky with my telescope and enjoy spending quality time with friends and my youth group.
+Apart from my tech-centric pursuits, I have a deep interest in:
+- 🌌 Stargazing: Exploring the cosmos and marveling at the wonders of the night sky.
+- 🚶‍♂️ Outdoor Activities: Enjoying outdoor adventures with friends and my youth group.
 
 ## Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/diogocoelhoweb/)
-- ✉️ You can reach me via [Email](mailto:diogoamcoelho16@gmail.com)
+- 🌐 **[LinkedIn](https://www.linkedin.com/in/diogocoelhoweb/)**
+- ✉️ **Email:** [diogoamcoelho16@gmail.com](mailto:diogoamcoelho16@gmail.com)
 
 ## Support Me
 
